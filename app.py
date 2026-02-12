@@ -210,4 +210,4 @@ else:
 
 # Footer
 st.markdown("---")
-st.markdown("Made with ❤️ by Streamlit")
+st.markdown("Author: Nguyễn Hoàng Tùng")

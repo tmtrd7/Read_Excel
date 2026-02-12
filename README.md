@@ -132,4 +132,4 @@ MIT License - xem file LICENSE để biết thêm chi tiết.
 
 ## 👨‍💻 Tác giả
 
-Made with ❤️ by Streamlit
+Author: Nguyễn Hoàng Tùng
